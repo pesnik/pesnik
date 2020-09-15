@@ -4,7 +4,7 @@
 
 
 
-<hr>
+</hr>
 
 ###### N.B : I've attached my cover photo with 'National Professor Sir Jamilur Reza Chowdhury' to show my heartiest and blooming love for him. R.I.P Sir. Here goes four lines I've written on his death. 
 
