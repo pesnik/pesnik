@@ -6,9 +6,10 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 
 ## 🚀 Current Projects
 
-- **Eker Vitor Sob**: A platform for interactive and visual learning, focusing on STEM subjects.
-- **PlugNest**: A startup creating plugins and extensions to enhance software functionality.
-- **Data Warehouse Solutions**: Building lightweight data warehouse solutions for startups.
+- [**Eker Vitor Sob**](https://github.com/eker-vitor-sob): A platform for interactive and visual learning, focusing on STEM subjects.
+- [**PlugNest**](https://github.com/plugnest): A startup creating plugins and extensions to enhance software functionality.
+- [**গুদাম (Gudam)**](https://github.com/rhasanm/gudam): A lightweight data warehouse solution tailored for startups.
+- [**Calf**](https://github.com/rhasanm/calf): A large language model designed to act as the L1 engineer and knowledge keeper of the company.
 
 ---
 
