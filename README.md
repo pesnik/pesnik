@@ -2,8 +2,6 @@
 
 I'm an **entrepreneur** and **Data Engineer** with a background in **Software Engineering**, currently exploring the world of **AI**. My passion lies in building innovative solutions across **e-commerce**, **data warehousing**, and **educational technology**, and **AI**.
 
-> ঐশী জ্যোতিই আমাদের পথ প্রদর্শক
-
 ---
 
 ## 🚀 Current Projects
