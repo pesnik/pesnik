@@ -15,15 +15,6 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 
 ---
 
-## 🛠️ My Tech Stack
-
-- **Languages**: Python, JavaScript, Rust, PHP, SQL
-- **Frameworks**: React, Tauri, Laravel
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Airflow, Langchain, Docker
-
----
-
 ## 🧠 My Journey
 
 - **Past**: Software Engineer
