@@ -15,8 +15,8 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 
 ## 🧠 My Journey
 
-- **Past**: Software Engineer
-- **Present**: Data Engineer, solving complex data problems.
+- **Past**: Software Engineer - Building robust applications and systems
+- **Present**: Data Engineer - solving complex data problems.
 - **Future**: Data Scientist - Aspiring to unlock the power of data through advanced analytics and ML.
 
 ---
