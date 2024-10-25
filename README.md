@@ -28,6 +28,4 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 
 ---
 
-🚀 Dive into my projects and let's build something amazing together!
-
 Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to collaborate.
