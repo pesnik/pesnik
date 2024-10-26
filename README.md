@@ -24,7 +24,7 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 ## 📫 Let's Connect
 
 - **Email**: [hasanrakibul.masum@gmail.com](mailto:hasanrakibul.masum@gmail.com)
-- **LinkedIn**: [Rakibul Hasan Masum](https://www.linkedin.com/in/rakibulhasanmasum)
+- **LinkedIn**: [Rakibul Hasan Masum](https://www.linkedin.com/in/pesnik/)
 
 ---
 
