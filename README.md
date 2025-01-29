@@ -8,7 +8,7 @@ I'm an **entrepreneur** and **Data Engineer** with a background in **Software En
 
 ## 🚀 Current Projects  
 
-- [**একের ভিতর সব (Eker Vitor Sob)**](https://github.com/eker-vitor-sob): A platform for interactive and visual learning, focusing on STEM subjects.  
+- [**একের ভিতর সব (Eker Vitor Sob)**](https://github.com/EkerVitorSob): A platform for interactive and visual learning, focusing on STEM subjects.  
 - [**PlugNest**](https://github.com/plugnest): A startup creating plugins and extensions to enhance software functionality.  
 - [**গুদাম (Gudam)**](https://github.com/pesnik/gudam): A lightweight data warehouse solution tailored for startups.  
 - [**Calf**](https://github.com/pesnik/calf): A large language model designed to act as the L1 engineer and knowledge keeper of the company.  
