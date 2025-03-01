@@ -2,7 +2,7 @@
 
 I'm an **entrepreneur** and **Data Engineer** with a background in **Software Engineering**, currently exploring the world of **AI**. My passion lies in building innovative solutions across **e-commerce**, **data warehousing**, **educational technology**, and **AI**.  
 
-**Spirit Animal**: 🦫 *The Beaver* – *Industrious, Creative, Engineer, Ecosystem Shaper, Nature's Architect*.  
+🦫 *The Beaver* – *Industrious, Creative, Engineer, Ecosystem Shaper, Nature's Architect*.  
 
 ---  
 
